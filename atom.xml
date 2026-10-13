@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://qq157755587.github.io/"/>
+  <link href="https://zhaoyouqi.github.io/"/>
   <updated>2019-06-27T09:06:30.018Z</updated>
-  <id>http://qq157755587.github.io/</id>
+  <id>https://zhaoyouqi.github.io/</id>
   
   <author>
     <name>赵元杰</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>kotlin 开篇</title>
-    <link href="http://qq157755587.github.io/2019/06/27/kotlin-opening/"/>
-    <id>http://qq157755587.github.io/2019/06/27/kotlin-opening/</id>
+    <link href="https://zhaoyouqi.github.io/2019/06/27/kotlin-opening/"/>
+    <id>https://zhaoyouqi.github.io/2019/06/27/kotlin-opening/</id>
     <published>2019-06-27T08:50:47.000Z</published>
     <updated>2019-06-27T09:06:30.018Z</updated>
     
@@ -34,15 +34,15 @@
     
     </summary>
     
-      <category term="Kotlin" scheme="http://qq157755587.github.io/categories/Kotlin/"/>
+      <category term="Kotlin" scheme="https://zhaoyouqi.github.io/categories/Kotlin/"/>
     
     
   </entry>
   
   <entry>
     <title>Chrome Custom Tabs最佳实践</title>
-    <link href="http://qq157755587.github.io/2016/08/12/custom-tabs-best-practices/"/>
-    <id>http://qq157755587.github.io/2016/08/12/custom-tabs-best-practices/</id>
+    <link href="https://zhaoyouqi.github.io/2016/08/12/custom-tabs-best-practices/"/>
+    <id>https://zhaoyouqi.github.io/2016/08/12/custom-tabs-best-practices/</id>
     <published>2016-08-12T08:54:34.000Z</published>
     <updated>2016-08-13T09:02:56.000Z</updated>
     
@@ -57,19 +57,19 @@
     
     </summary>
     
-      <category term="Android" scheme="http://qq157755587.github.io/categories/Android/"/>
+      <category term="Android" scheme="https://zhaoyouqi.github.io/categories/Android/"/>
     
     
-      <category term="chrome" scheme="http://qq157755587.github.io/tags/chrome/"/>
+      <category term="chrome" scheme="https://zhaoyouqi.github.io/tags/chrome/"/>
     
-      <category term="customtabs" scheme="http://qq157755587.github.io/tags/customtabs/"/>
+      <category term="customtabs" scheme="https://zhaoyouqi.github.io/tags/customtabs/"/>
     
   </entry>
   
   <entry>
     <title>Kotlin在Android中的应用</title>
-    <link href="http://qq157755587.github.io/2015/11/14/kotlin-in-android/"/>
-    <id>http://qq157755587.github.io/2015/11/14/kotlin-in-android/</id>
+    <link href="https://zhaoyouqi.github.io/2015/11/14/kotlin-in-android/"/>
+    <id>https://zhaoyouqi.github.io/2015/11/14/kotlin-in-android/</id>
     <published>2015-11-14T05:13:52.000Z</published>
     <updated>2015-11-14T07:27:22.000Z</updated>
     
@@ -85,15 +85,15 @@
     
     </summary>
     
-      <category term="Kotlin" scheme="http://qq157755587.github.io/categories/Kotlin/"/>
+      <category term="Kotlin" scheme="https://zhaoyouqi.github.io/categories/Kotlin/"/>
     
     
   </entry>
   
   <entry>
     <title>快速自定义tableViewCell</title>
-    <link href="http://qq157755587.github.io/2015/08/19/custom-table-view-cell/"/>
-    <id>http://qq157755587.github.io/2015/08/19/custom-table-view-cell/</id>
+    <link href="https://zhaoyouqi.github.io/2015/08/19/custom-table-view-cell/"/>
+    <id>https://zhaoyouqi.github.io/2015/08/19/custom-table-view-cell/</id>
     <published>2015-08-19T12:47:01.000Z</published>
     <updated>2015-08-19T13:11:43.000Z</updated>
     
@@ -108,17 +108,17 @@
     
     </summary>
     
-      <category term="iOS" scheme="http://qq157755587.github.io/categories/iOS/"/>
+      <category term="iOS" scheme="https://zhaoyouqi.github.io/categories/iOS/"/>
     
     
-      <category term="tableViewCell" scheme="http://qq157755587.github.io/tags/tableViewCell/"/>
+      <category term="tableViewCell" scheme="https://zhaoyouqi.github.io/tags/tableViewCell/"/>
     
   </entry>
   
   <entry>
     <title>Kotlin学习笔记（三）控制流程</title>
-    <link href="http://qq157755587.github.io/2015/08/08/learning-kotlin-3/"/>
-    <id>http://qq157755587.github.io/2015/08/08/learning-kotlin-3/</id>
+    <link href="https://zhaoyouqi.github.io/2015/08/08/learning-kotlin-3/"/>
+    <id>https://zhaoyouqi.github.io/2015/08/08/learning-kotlin-3/</id>
     <published>2015-08-08T06:40:18.000Z</published>
     <updated>2015-08-08T08:06:59.000Z</updated>
     
@@ -133,23 +133,23 @@
     
     </summary>
     
-      <category term="Kotlin" scheme="http://qq157755587.github.io/categories/Kotlin/"/>
+      <category term="Kotlin" scheme="https://zhaoyouqi.github.io/categories/Kotlin/"/>
     
     
-      <category term="if" scheme="http://qq157755587.github.io/tags/if/"/>
+      <category term="if" scheme="https://zhaoyouqi.github.io/tags/if/"/>
     
-      <category term="when" scheme="http://qq157755587.github.io/tags/when/"/>
+      <category term="when" scheme="https://zhaoyouqi.github.io/tags/when/"/>
     
-      <category term="for" scheme="http://qq157755587.github.io/tags/for/"/>
+      <category term="for" scheme="https://zhaoyouqi.github.io/tags/for/"/>
     
-      <category term="while" scheme="http://qq157755587.github.io/tags/while/"/>
+      <category term="while" scheme="https://zhaoyouqi.github.io/tags/while/"/>
     
   </entry>
   
   <entry>
     <title>Kotlin学习笔记（二）基本类型</title>
-    <link href="http://qq157755587.github.io/2015/07/28/learning-kotlin-2/"/>
-    <id>http://qq157755587.github.io/2015/07/28/learning-kotlin-2/</id>
+    <link href="https://zhaoyouqi.github.io/2015/07/28/learning-kotlin-2/"/>
+    <id>https://zhaoyouqi.github.io/2015/07/28/learning-kotlin-2/</id>
     <published>2015-07-28T10:31:26.000Z</published>
     <updated>2015-07-30T09:51:37.000Z</updated>
     
@@ -166,25 +166,25 @@
     
     </summary>
     
-      <category term="Kotlin" scheme="http://qq157755587.github.io/categories/Kotlin/"/>
+      <category term="Kotlin" scheme="https://zhaoyouqi.github.io/categories/Kotlin/"/>
     
     
-      <category term="number" scheme="http://qq157755587.github.io/tags/number/"/>
+      <category term="number" scheme="https://zhaoyouqi.github.io/tags/number/"/>
     
-      <category term="character" scheme="http://qq157755587.github.io/tags/character/"/>
+      <category term="character" scheme="https://zhaoyouqi.github.io/tags/character/"/>
     
-      <category term="boolean" scheme="http://qq157755587.github.io/tags/boolean/"/>
+      <category term="boolean" scheme="https://zhaoyouqi.github.io/tags/boolean/"/>
     
-      <category term="string" scheme="http://qq157755587.github.io/tags/string/"/>
+      <category term="string" scheme="https://zhaoyouqi.github.io/tags/string/"/>
     
-      <category term="array" scheme="http://qq157755587.github.io/tags/array/"/>
+      <category term="array" scheme="https://zhaoyouqi.github.io/tags/array/"/>
     
   </entry>
   
   <entry>
     <title>Kotlin学习笔记（一）基本语法</title>
-    <link href="http://qq157755587.github.io/2015/07/24/learning-kotlin-1/"/>
-    <id>http://qq157755587.github.io/2015/07/24/learning-kotlin-1/</id>
+    <link href="https://zhaoyouqi.github.io/2015/07/24/learning-kotlin-1/"/>
+    <id>https://zhaoyouqi.github.io/2015/07/24/learning-kotlin-1/</id>
     <published>2015-07-24T10:37:27.000Z</published>
     <updated>2015-07-25T12:01:07.000Z</updated>
     
@@ -200,17 +200,17 @@
     
     </summary>
     
-      <category term="Kotlin" scheme="http://qq157755587.github.io/categories/Kotlin/"/>
+      <category term="Kotlin" scheme="https://zhaoyouqi.github.io/categories/Kotlin/"/>
     
     
-      <category term="syntax" scheme="http://qq157755587.github.io/tags/syntax/"/>
+      <category term="syntax" scheme="https://zhaoyouqi.github.io/tags/syntax/"/>
     
   </entry>
   
   <entry>
     <title>在Android中将文本转为曲线</title>
-    <link href="http://qq157755587.github.io/2015/07/18/android-convert-text-to-curves/"/>
-    <id>http://qq157755587.github.io/2015/07/18/android-convert-text-to-curves/</id>
+    <link href="https://zhaoyouqi.github.io/2015/07/18/android-convert-text-to-curves/"/>
+    <id>https://zhaoyouqi.github.io/2015/07/18/android-convert-text-to-curves/</id>
     <published>2015-07-18T08:09:27.000Z</published>
     <updated>2015-07-20T10:24:14.000Z</updated>
     
@@ -225,14 +225,14 @@
     
     </summary>
     
-      <category term="Android" scheme="http://qq157755587.github.io/categories/Android/"/>
+      <category term="Android" scheme="https://zhaoyouqi.github.io/categories/Android/"/>
     
     
-      <category term="PDF" scheme="http://qq157755587.github.io/tags/PDF/"/>
+      <category term="PDF" scheme="https://zhaoyouqi.github.io/tags/PDF/"/>
     
-      <category term="Paint" scheme="http://qq157755587.github.io/tags/Paint/"/>
+      <category term="Paint" scheme="https://zhaoyouqi.github.io/tags/Paint/"/>
     
-      <category term="Path" scheme="http://qq157755587.github.io/tags/Path/"/>
+      <category term="Path" scheme="https://zhaoyouqi.github.io/tags/Path/"/>
     
   </entry>
   
